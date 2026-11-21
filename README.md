@@ -2,6 +2,7 @@
 
 # Agentic Software Engineering
 
+
 ## Course Introduction
 
 This portfolio showcases my activities, reflections, and outputs throughout the course Agentic Software Engineering. The course focuses on how AI agents work, how they make decisions, use tools, and carry out tasks with minimal human intervention. It also introduces software development practices such as Agile methodology, version control, collaboration, testing, and responsible use of AI.
