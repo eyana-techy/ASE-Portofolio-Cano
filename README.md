@@ -1,6 +1,6 @@
 # ASE-Portfolio-Cano
 
-# Agentic Software Engineering Portfolio
+# Agentic Software Engineering
 
 ## Course Introduction
 
